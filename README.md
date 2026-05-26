@@ -2,7 +2,7 @@
 
 Team Name: Acloudysky
 
-![Ranking](assets/rank.png)
+![Ranking](rank.png)
 
 得益于 DIN MLP 这条更轻的路线，抽到好卡时可以 6mins/epoch，甚至能够有机会二分调参 reinit_threshold. 然而一次一次的 AUC 告诉我，复杂主干不一定是这份数据上最稳的方向。大量的实验其实来自焦虑，最后每天的 3 次 AUC 机会基本就是乱选。
 
